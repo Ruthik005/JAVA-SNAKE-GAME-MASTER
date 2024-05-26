@@ -14,27 +14,27 @@ This repository contains the implementation of a classic Snake game in Java, wit
 
 1. Clone the repository:
     sh
-    git clone https://github.com/your-username/snake-game.git
+    git clone[ https://github.com/your-username/snake-game.git](https://github.com/Ruthik005/JAVA-SNAKE-GAME-MASTER.git)
     
 
-2. Navigate to the project directory:
+3. Navigate to the project directory:
     sh
     cd snake-game
     
 
-3. Open the project in your preferred Java IDE or text editor:
+4. Open the project in your preferred Java IDE or text editor:
     sh
     code .
     
 
-4. Ensure Java is installed. Download the JDK from [here](https://www.oracle.com/java/technologies/javase-downloads.html).
+5. Ensure Java is installed. Download the JDK from [here](https://www.oracle.com/java/technologies/javase-downloads.html).
 
-5. Compile the project:
+6. Compile the project:
     sh
     javac -d bin src/com/zetcode/*.java
     
 
-6. Run the project:
+7. Run the project:
     sh
     java -cp bin com.zetcode.Snake
    **** - To run the application in Visual Studio Code, use the shortcut Ctrl+F5. ****
