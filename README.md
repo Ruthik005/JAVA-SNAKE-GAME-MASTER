@@ -155,4 +155,3 @@ Design Choices
  
 By addressing these challenges and making thoughtful design choices, the game is now more interactive, user-friendly, and visually clear.
 
-
