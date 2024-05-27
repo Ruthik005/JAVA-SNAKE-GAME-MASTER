@@ -14,7 +14,7 @@ This repository contains the implementation of a classic Snake game in Java, wit
 
 1. Clone the repository:
     sh
-    git clone[ https://github.com/your-username/snake-game.git](https://github.com/Ruthik005/JAVA-SNAKE-GAME-MASTER.git)
+    git clone  (https://github.com/Ruthik005/JAVA-SNAKE-GAME-MASTER.git)
     
 
 3. Navigate to the project directory:
